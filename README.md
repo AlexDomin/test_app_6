@@ -1,6 +1,6 @@
 # README
 
-Adding initial comment for git commit practice.
+Second comment because idk what I'm doing. -- Adding initial comment for git commit practice.  test
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
